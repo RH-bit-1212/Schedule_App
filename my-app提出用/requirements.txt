@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+
+# DB / ORM
+sqlalchemy
+
+# MongoDB
+pymongo
+
+# 認証・セキュリティ
+python-jose[cryptography]
+passlib[bcrypt]
+
+# バリデーション
+pydantic
+
+# 環境変数管理（本番耐性向上で使用想定）
+python-dotenv
+
+# マルチパート（将来のフォーム・ファイル対応）
+python-multipart
