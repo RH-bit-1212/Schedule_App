@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "朝の運動",
+      "start": "06:00",
+      "end": "06:30",
+      "importance": 2,
+      "memo": "軽めのストレッチ",
+      "type": "スケジュール",
+      "done": false
+    },
+    {
+      "id": 101,
+      "title": "読書",
+      "start": "22:00",
+      "end": "23:00",
+      "importance": 1,
+      "memo": "技術書1章",
+      "type": "習慣",
+      "done": false
+    }
+  ]
+}
